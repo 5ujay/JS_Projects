@@ -46,6 +46,11 @@ h1 {
   font-size: 1.5rem;
 }
 
+h3 a {
+  color: greenyellow;
+  text-decoration: none;
+}
+
 .projects {
   display: flex;
   flex-direction: column;
